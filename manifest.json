@@ -1,10 +1,10 @@
 {
   "name": "Interactive Table Viz",
   "description": "Custom interactive table for Looker Studio with multi-level drilldown",
-  "author": "Your Name",
-  "organization": "Your Org",
+  "author": "Chandresh Prasad",
+  "organization": "AirAsia",
   "support": {
-    "email": "youremail@example.com"
+    "email": "chandresh@airasia.com"
   },
   "visualization": {
     "script": "viz.js",
