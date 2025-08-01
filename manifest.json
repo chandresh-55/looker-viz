@@ -1,0 +1,18 @@
+{ 
+  "name": "Interactive Table Viz",
+  "description": "Custom Interactive table for Looer Studio with multi-level drilldown",
+  "author": "Chandresh Prasad",
+  "organisation": "AirAsia",
+  "support": {
+    "email": "chandresh@airasia.com"
+  },
+  "visualisation": {
+    "script": "viz.js",
+    "style":"",
+    "library": ""
+  }
+  "logo": {
+    "url": ""
+  },
+  "components": ["dscc"]
+}
