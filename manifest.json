@@ -1,14 +1,14 @@
-{ 
+{
   "name": "Interactive Table Viz",
-  "description": "Custom Interactive table for Looer Studio with multi-level drilldown",
-  "author": "Chandresh Prasad",
-  "organisation": "AirAsia",
+  "description": "Custom interactive table for Looker Studio with multi-level drilldown",
+  "author": "Your Name",
+  "organization": "Your Org",
   "support": {
-    "email": "chandresh@airasia.com"
+    "email": "youremail@example.com"
   },
-  "visualisation": {
+  "visualization": {
     "script": "viz.js",
-    "style":"",
+    "style": "",
     "library": ""
   },
   "logo": {
